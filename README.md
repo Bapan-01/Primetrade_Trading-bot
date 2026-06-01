@@ -127,8 +127,8 @@ cp .env.example .env
 
 Open the newly created `.env` file and insert your credentials:
 ```env
-BINANCE_API_KEY=your_binance_testnet_api_key_here
-BINANCE_API_SECRET=your_binance_testnet_api_secret_here
+BINANCE_API_KEY=cpGSStLkmwsAv3eJdTsDWeEgSbz6JhMLObt096dnzzyZxmdt7xoBPHhY5PUaG0AH
+BINANCE_API_SECRET=5tE3LkgeawlmaKKxUkHdi7A1qQKIAHj7IB8VXQiSO5HwzoMykHLVXATYbnsyiMPZ
 ```
 
 ---
